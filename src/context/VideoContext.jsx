@@ -82,6 +82,20 @@ const INITIAL_VIDEOS = [
     uploadedAt: '2024-12-01',
     tags: ['aurora', 'nature', '8k'],
   },
+  {
+    id: '7',
+    title: 'Metamorphosis (Instrumental)',
+    description: 'Witness the magical dance of northern lights captured in unprecedented 8K clarity.',
+    youtubeId: 'WXCoGQdxcYU',
+    thumbnail: 'https://i.ytimg.com/vi/WXCoGQdxcYU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBqS-6gKjXlr2rbEmXqqnfyQHqXTA',
+    views: '4.2M',
+    duration: '11:08',
+    category: 'Nature',
+    trending: true,
+    uploadedAt: '2024-12-01',
+    tags: ['aurora', 'nature', '8k'],
+  },
+  
 ]
 
 export function VideoProvider({ children }) {
