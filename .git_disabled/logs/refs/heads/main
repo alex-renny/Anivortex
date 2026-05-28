@@ -1,0 +1,14 @@
+0000000000000000000000000000000000000000 b4408e3dfe5be50d5e5de0f297464d8b48f46f4d alex-renny <mr.alex112524@gmail.com> 1779814269 +0530	commit (initial): First Commit
+b4408e3dfe5be50d5e5de0f297464d8b48f46f4d b4408e3dfe5be50d5e5de0f297464d8b48f46f4d alex-renny <mr.alex112524@gmail.com> 1779814288 +0530	Branch: renamed refs/heads/master to refs/heads/main
+b4408e3dfe5be50d5e5de0f297464d8b48f46f4d dc06796edd3068f7f26957374dc6eee6a296dfa3 alex-renny <mr.alex112524@gmail.com> 1779814503 +0530	commit: vercel.json added
+dc06796edd3068f7f26957374dc6eee6a296dfa3 a3760287d51ac247a72d325c8d5d9245f258bed9 alex-renny <mr.alex112524@gmail.com> 1779815028 +0530	commit: node modules re installed
+a3760287d51ac247a72d325c8d5d9245f258bed9 dacbf4ad75b83d0fa350e42d8ffacb4610e03f21 alex-renny <mr.alex112524@gmail.com> 1779815336 +0530	commit: Line height error fixed
+dacbf4ad75b83d0fa350e42d8ffacb4610e03f21 e408b1cad07d35b5b254cd30b5666c377f779fef alex-renny <mr.alex112524@gmail.com> 1779815696 +0530	commit: reinstalled pakages again
+e408b1cad07d35b5b254cd30b5666c377f779fef 152917ce42f4134160ecc606bed9e258fdf9e003 alex-renny <mr.alex112524@gmail.com> 1779815996 +0530	commit: Nodemodules removed from git
+152917ce42f4134160ecc606bed9e258fdf9e003 66e134b66b8486e185c13e75c54dc5d8bd7ebeca alex-renny <mr.alex112524@gmail.com> 1779816188 +0530	commit: Remove node_modules from repository
+66e134b66b8486e185c13e75c54dc5d8bd7ebeca 71cd0d6923acd4a4214b2bfaf6f7a024846d28dc alex-renny <mr.alex112524@gmail.com> 1779816308 +0530	commit: Remove node_modules from repository
+71cd0d6923acd4a4214b2bfaf6f7a024846d28dc 44248516e40dfef6455dfe2a3fb8bd73f90d48e5 alex-renny <mr.alex112524@gmail.com> 1779821454 +0530	commit: Hover to navbar added
+44248516e40dfef6455dfe2a3fb8bd73f90d48e5 d8b220b0525976a6d69f5710ad795f7360d02eb7 alex-renny <mr.alex112524@gmail.com> 1779821706 +0530	commit: Hanburger menu changed
+d8b220b0525976a6d69f5710ad795f7360d02eb7 64f900cf3c8e6fc68371937fcbb0c2c468775ffb alex-renny <mr.alex112524@gmail.com> 1779821794 +0530	commit: Hanburger changed to previous
+64f900cf3c8e6fc68371937fcbb0c2c468775ffb a606acfb86b58f310f2828bcc4d9876de59235d1 alex-renny <mr.alex112524@gmail.com> 1779822142 +0530	commit: mobile hanburger changed to half screen
+a606acfb86b58f310f2828bcc4d9876de59235d1 ad13f2ddf8d98fef8edcf54c3e73c515ec5b4f63 alex-renny <mr.alex112524@gmail.com> 1779902829 +0530	commit: Tictok icon changed to yt
